@@ -1,0 +1,23 @@
+{
+  "name": "crawler_japanense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-es2016": "^7.0.0-beta.53",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "exceljs": "^1.6.3"
+  }
+}
